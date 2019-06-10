@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://doc-14-84-docs.googleusercontent.com/docs/securesc/ha1sbk4pti12ekar2ttj85e6soqsuvde/1kfp14vc7a169qrdua5a2c1tlpejgdkf/1560146400000/09220317037043725960/03926988450066291342/1Zkk7baTC2hnwpY0Cjs_CUE3VVTRBwsSv?e=download'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1Zkk7baTC2hnwpY0Cjs_CUE3VVTRBwsSv'
 export_file_name = 'export.pkl'
 
 classes = ['Pneumonia','Normal']
